@@ -79,7 +79,7 @@ My portfolio includes various learning experiences, certifications, internships,
 ## 🌐 Portfolio
 
 **Live Portfolio:**
-https://padmavati-bellikoppa-portfolio.netlify.app/
+https://incomparable-lolly-e33208.netlify.app
 
 ## 📂 Repository Structure
 
